@@ -1,0 +1,12 @@
+
+  
+	Familiarity with Sci-Kit Learn library, different techniques such as linear regression and clustering-based techniques (both supervised and unsupervised) like KMeans, DBSCAN, Agglomerative, Hierarchical.  
+	Random Forest Classifier, Random Forest Regressor, Decision Tree Classifier, Decision Tree Classifier, Decision Tree regressor, Gradient Boosting, Extreme Gradient Boosting, Support Vector Machines, Logistic Regression, Binary Classification.
+	Hyperparameter tuning techniques for each of these different models.
+	Metrics like accuracy, precision, F1 score, mean squared error, mean absolute error, Matthew’s correlation coefficient,
+ Receiver-Operator- Characteristic (ROC), Area- Under- the- Curve (AUC).
+	NLP component that involved getting tf-idf vectors and reducing dimensions using SVD.
+	Dealing with imbalanced datasets.     
+ Deep learning overview, Sampling techniques- under sampling and oversampling.
+	Finding feature importance,   Analyzing underfit and overfit of the datasets.
+	Creating machine learning pipelines to perform a sequence of operations at once.
